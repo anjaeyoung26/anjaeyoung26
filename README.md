@@ -1,4 +1,4 @@
-<h1 align="center">I'm Jaeyoung</h1>
+<h1 align="center">Jaeyoung</h1>
 <p aligh="left">I'm iOS developer from South Korea.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaeyoung26&label=Profile%20views&color=0e75b6&style=flat" alt="anjaeyoung26" /> </p>
 
