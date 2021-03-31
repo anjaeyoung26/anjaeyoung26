@@ -8,7 +8,7 @@
 ### Summary
 
 - Learning **RxSwift, Clean Architecture, Algorithm**
-- Interested in **Dependency injection, Fastlane, Slack**
+- Interested in **Dependency injection, Fastlane, Slack, SwiftLint**
 - Write on [https://anjaeyoung26.github.io/](https://anjaeyoung26.github.io/)
 - Contact **dkswodud011@gmail.com**
 
