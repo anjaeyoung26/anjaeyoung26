@@ -17,10 +17,10 @@
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github 프로필 꾸미기](https://anjaeyoung26.github.io/github/Github-Profile/)
 - [큐](https://anjaeyoung26.github.io/algorithm/Queue/)
 - [스택](https://anjaeyoung26.github.io/algorithm/Stack/)
 - [Property Wrapper](https://anjaeyoung26.github.io/study/Property-wrapper/)
-- [애플 연회비 면제](https://anjaeyoung26.github.io/membership/Fee-waiver/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
