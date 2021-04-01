@@ -17,7 +17,7 @@
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Github 프로필 꾸미기](https://anjaeyoung26.github.io/github/Github-Profile/)
+- [Github 꾸미기 - 프로필](https://anjaeyoung26.github.io/github/Github-Profile/)
 - [큐](https://anjaeyoung26.github.io/algorithm/Queue/)
 - [스택](https://anjaeyoung26.github.io/algorithm/Stack/)
 - [Property Wrapper](https://anjaeyoung26.github.io/study/Property-wrapper/)
