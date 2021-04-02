@@ -19,8 +19,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Github 꾸미기 - 일일 코딩 시간](https://anjaeyoung26.github.io/github/Github-Daily-Commit/)
 - [Github 꾸미기 - 프로필](https://anjaeyoung26.github.io/github/Github-Profile/)
-- [큐](https://anjaeyoung26.github.io/algorithm/Queue/)
-- [스택](https://anjaeyoung26.github.io/algorithm/Stack/)
+- [알고리즘 - 큐](https://anjaeyoung26.github.io/algorithm/Queue/)
+- [알고리즘 - 스택](https://anjaeyoung26.github.io/algorithm/Stack/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
