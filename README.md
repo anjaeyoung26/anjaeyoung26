@@ -14,6 +14,14 @@
 
 <br>
 
+### 2021's Resolution
+
+- One day, One commit
+- Post at least twice a week - Algorithm, Free topic
+
+
+<br>
+
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
