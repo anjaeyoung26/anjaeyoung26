@@ -5,7 +5,7 @@
 
 <br>
 
-### 2021's Resolution
+### April's Resolution
 
 - One day, One commit
 - Post at least twice a week - Algorithm, Free topic
