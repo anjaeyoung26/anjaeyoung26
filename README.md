@@ -7,7 +7,7 @@
 
 ### April's Resolution
 
-- One day, One commit
+- ~~One day, One commit~~
 - Post at least twice a week - Algorithm, Free topic
 
 <br>
