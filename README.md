@@ -24,10 +24,10 @@
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [알고리즘 - 선택 정렬](https://anjaeyoung26.github.io/algorithm/Selection-Sort/)
 - [테이블 뷰의 셀이 두 번 클릭되는 경우](https://anjaeyoung26.github.io/issue/TableView-Selected-Twice/)
 - [알고리즘 - 힙](https://anjaeyoung26.github.io/algorithm/Heap/)
 - [알고리즘 - 트리](https://anjaeyoung26.github.io/algorithm/Tree/)
-- [Github 꾸미기 - 일일 코딩 시간](https://anjaeyoung26.github.io/github/Github-Daily-Commit/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
