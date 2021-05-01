@@ -3,17 +3,17 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjaeyoung26%2Fanjaeyoung26.git&count_bg=%23676A65&title_bg=%23676A65&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### May's Resolution
-
-- One day, One commit
-- Post at least twice a week - Algorithm, Free topic
-
 ### Summary
 
-- Learning **RxSwift, Clean Architecture, Algorithm**
-- Interested in **Dependency injection, Fastlane, Slack, SwiftLint**
+- Interested in **Dependency injection, Fastlane, Slack**
+- Learning **Algorithm, RxSwift**
 - Write on [**https://anjaeyoung26.github.io/**](https://anjaeyoung26.github.io/)
 - Contact **dkswodud011@gmail.com**
+
+### May's Resolution
+
+- Post at least once a week - Algorithm, Free topic
+- One day, One commit
 
 ### Posts
 
