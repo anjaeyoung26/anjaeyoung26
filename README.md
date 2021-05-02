@@ -5,8 +5,7 @@
 
 ### Summary
 
-- Interested in **Dependency injection, Fastlane, Slack**
-- Learning **Algorithm, RxSwift**
+- Interested in **Algorithm, Dependency injection, Fastlane, Slack**
 - Write on [**https://anjaeyoung26.github.io/**](https://anjaeyoung26.github.io/)
 - Contact **dkswodud011@gmail.com**
 
