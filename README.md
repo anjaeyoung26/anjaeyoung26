@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hello</h1>
-<h2 align="center">iOS Developer in South Korea</h2>
+<img align="center" src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="200px" height="150px">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjaeyoung26%2Fanjaeyoung26.git&count_bg=%23676A65&title_bg=%23676A65&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
