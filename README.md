@@ -9,7 +9,7 @@
 - Become a open source contributor
 - One day, One commit
 
-### Currently Studying..
+### Interested
 
 - **Algorithm, Fastlane, Slack, Unit Test**
 
