@@ -18,9 +18,9 @@
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [알고리즘 - 버블 정렬](https://anjaeyoung26.github.io/algorithm/Bubble-Sort/)
-- [알고리즘 - 삽입 정렬](https://anjaeyoung26.github.io/algorithm/Insertion-Sort/)
-- [알고리즘 - 선택 정렬](https://anjaeyoung26.github.io/algorithm/Selection-Sort/)
+- [버블 정렬](https://anjaeyoung26.github.io/algorithm/Bubble-Sort/)
+- [삽입 정렬](https://anjaeyoung26.github.io/algorithm/Insertion-Sort/)
+- [선택 정렬](https://anjaeyoung26.github.io/algorithm/Selection-Sort/)
 - [테이블 뷰의 셀이 두 번 클릭되는 경우](https://anjaeyoung26.github.io/issue/TableView-Selected-Twice/)
 <!-- BLOG-POST-LIST:END -->
 
