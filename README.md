@@ -11,7 +11,7 @@
 
 ### Interested
 
-- **Algorithm, Fastlane, Slack, Unit Test**
+- Algorithm, Fastlane, Slack, Unit Test
 
 ### Posts
 
