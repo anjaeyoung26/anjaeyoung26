@@ -12,6 +12,7 @@
 ### May's Resolution
 
 - Post at least once a week - Algorithm, Free topic
+- Become a open source contributor
 - One day, One commit
 
 ### Posts
