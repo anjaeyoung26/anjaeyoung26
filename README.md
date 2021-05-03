@@ -1,6 +1,9 @@
-<img align="center" src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="200px" height="150px">
+<div align=center>
+<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="200px" height="150px">
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjaeyoung26%2Fanjaeyoung26.git&count_bg=%23676A65&title_bg=%23676A65&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://anjaeyoung26.github.io//)](https://anjaeyoung26.github.io//)
 
 ### May's Resolution
 
@@ -17,4 +20,8 @@
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en" alt="anjaeyoung26" /></p>
+-->
+
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjaeyoung26%2Fanjaeyoung26.git&count_bg=%23676A65&title_bg=%23676A65&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
