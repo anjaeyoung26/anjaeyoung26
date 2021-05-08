@@ -5,14 +5,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://anjaeyoung26.github.io//)](https://anjaeyoung26.github.io//)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en" alt="anjaeyoung26" /></p>
+<h3 align="left">Skills</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 ### Interested
 
-- Algorithm, Fastlane, Slack, Unit Test
+- Algorithm
+- Fastlane
+- Slack
+- Unit Test
 
-<h3 align="left">Skills</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en" alt="anjaeyoung26" /></p>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en" alt="anjaeyoung26" /></p>
