@@ -5,11 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://anjaeyoung26.github.io//)](https://anjaeyoung26.github.io//)
 
-### May's Resolution
-
-- Post at least once a week - Algorithm, Free topic
-- Become a open source contributor
-- One day, One commit
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en" alt="anjaeyoung26" /></p>
 
 ### Interested
 
@@ -24,4 +20,12 @@
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjaeyoung26%2Fanjaeyoung26.git&count_bg=%23676A65&title_bg=%23676A65&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
+<!--
+### May's Resolution
+
+- Post at least once a week - Algorithm, Free topic
+- Become a open source contributor
+- One day, One commit
 -->
