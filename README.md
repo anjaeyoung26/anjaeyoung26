@@ -1,10 +1,8 @@
 <div align=center>
-<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="200px" height="150px">
+<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="160px" height="130px">
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en&hide_title=true&hide_border=true&count_private=true&theme=graywhite " />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en&count_private=true&theme=graywhite " />
 
 ### Focusing on
 
@@ -35,5 +33,6 @@
 -->
 
 <!--
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://anjaeyoung26.github.io//)](https://anjaeyoung26.github.io//)
 -->
