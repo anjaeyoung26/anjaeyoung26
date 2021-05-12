@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="160px" height="120px">
 </div>
 
-<h3 align="center">안녕하세요! iOS 개발자 Dave 입니다</h3>
+<h3 align="center">안녕하세요! iOS 개발자 Dave 입니다.</h3>
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en&count_private=true&hide_title=true " />
