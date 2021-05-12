@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="160px" height="130px">
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en&count_private=true&theme=graywhite " />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en&count_private=true&theme=graywhite&custom_title=Stat " />
 
 ### Focusing on
 
