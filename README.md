@@ -1,16 +1,23 @@
 <div align=center>
-<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="160px" height="120px">
+<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="140px" height="100px">
 </div>
 
-<h3 align="center">안녕하세요! iOS 개발자 Dave 입니다.</h3>
+<h4 align="center">안녕하세요! iOS 개발자 Dave 입니다.</h3>
+
+---
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en&count_private=true&hide_title=true " />
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://anjaeyoung26.github.io//)](https://anjaeyoung26.github.io//)
+[![Notion](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/14624e43b1e5442789111d216d26e42f)](https://www.notion.so/14624e43b1e5442789111d216d26e42f)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+
 </div>
 
 <!--
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://anjaeyoung26.github.io//)](https://anjaeyoung26.github.io//)
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en&count_private=true&hide_title=true " />
+</div>
 -->
 
 <!--
