@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="140px" height="100px">
+<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="150px" height="120px">
 </div>
 
 <h4 align="center">안녕하세요! iOS 개발자 Dave 입니다.</h3>
