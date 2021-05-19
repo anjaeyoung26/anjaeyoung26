@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="150px" height="120px">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250px" height="200px">
 </div>
 
 <h4 align="center">안녕하세요! iOS 개발자 Dave 입니다.</h3>
@@ -13,6 +13,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 
 </div>
+
+<!--
+<div align=center>
+<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="150px" height="120px">
+</div>
+-->
 
 <!--
 <div align=center>
