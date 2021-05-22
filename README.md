@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250px" height="200px">
+<img src="https://media.giphy.com/media/WrW2MSY0hrY2FErZ8V/giphy.gif">
 </div>
 
 <h4 align="center">안녕하세요! iOS 개발자 Dave 입니다.</h3>
@@ -15,15 +15,15 @@
 </div>
 
 <!--
-<div align=center>
-<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="150px" height="120px">
-</div>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250px" height="200px">
 -->
 
 <!--
-<div align=center>
+<img src="https://media.giphy.com/media/eng1F85OwyqQe6JHc2/giphy.gif" width="150px" height="120px">
+-->
+
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=anjaeyoung26&show_icons=true&locale=en&count_private=true&hide_title=true " />
-</div>
 -->
 
 <!--
