@@ -9,10 +9,13 @@
 <div align=center>
   
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@fromdave)](https://medium.com/@fromdave)
-[![Notion](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/14624e43b1e5442789111d216d26e42f)](https://www.notion.so/14624e43b1e5442789111d216d26e42f)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkswodud011@gmail.com)](mailto:dkswodud011@gmail.com)
   
 </div>
+
+<!--
+[![Notion](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/14624e43b1e5442789111d216d26e42f)](https://www.notion.so/14624e43b1e5442789111d216d26e42f)
+-->
 
 <!--
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250px" height="200px">
