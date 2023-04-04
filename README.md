@@ -2,7 +2,7 @@
 
 <div align=center>
   
-[Resume](https://nifty-carpet-422.notion.site/9e2767a3070640c8a36f767d7e9df7eb)
+[Resume](https://jaeyoungan.notion.site/9e2767a3070640c8a36f767d7e9df7eb)
   
 </div>
 
